@@ -1,0 +1,1016 @@
+All Models
+Explore all available models provided by fal.ai
+
+background texture
+fal-ai/flux/dev
+text-to-image
+FLUX.1 [dev] is a 12 billion parameter flow transformer that generates high-quality images from text. It is suitable for personal and commercial use.
+
+flux
+background texture
+fal-ai/flux/schnell
+text-to-image
+FLUX.1 [schnell] is a 12 billion parameter flow transformer that generates high-quality images from text in 1 to 4 steps, suitable for personal and commercial use.
+
+optimized
+background texture
+fal-ai/flux-pro/v1.1
+text-to-image
+FLUX1.1 [pro] is an enhanced version of FLUX.1 [pro], improved image generation capabilities, delivering superior composition, detail, and artistic fidelity compared to its predecessor.
+
+background texture
+fal-ai/flux-pro/new
+text-to-image
+FLUX.1 [pro] new is an accelerated version of FLUX.1 [pro], maintaining professional-grade image quality while delivering significantly faster generation speeds.
+
+background texture
+fal-ai/stable-diffusion-v35-medium
+text-to-image
+Stable Diffusion 3.5 Medium is a Multimodal Diffusion Transformer (MMDiT) text-to-image model that features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.
+
+stable-diffusion
+background texture
+fal-ai/recraft-v3/create-style
+training
+Recraft V3 Create Style is capable of creating unique styles for Recraft V3 based on your images.
+
+recraft
+red-panda
+vector
+style
+background texture
+fal-ai/flux-realism
+text-to-image
+FLUX Realism LoRA is a specialized fine-tuning adaptation that enhances FLUX models to produce hyper-realistic images with exceptional detail, accurate lighting, and true-to-life textures. Optimized for photographic quality and real-world accuracy.
+
+background texture
+fal-ai/flux-lora/inpainting
+image-to-image
+FLUX LoRA Inpainting is a specialized endpoint that enables precise image editing and completion with FLUX models, combining rapid processing speeds with LoRA adaptation capabilities for high-quality selective image generation and modification.
+
+loras
+stylized
+background texture
+fal-ai/flux-lora/image-to-image
+image-to-image
+FLUX LoRA Image-to-Image is a high-performance endpoint that transforms existing images using FLUX models, leveraging LoRA adaptations to enable rapid and precise image style transfer, modifications, and artistic variations.
+
+loras
+stylized
+background texture
+fal-ai/flux-general
+text-to-image
+A versatile endpoint for the FLUX.1 [dev] model that supports multiple AI extensions including LoRA, ControlNet conditioning, and IP-Adapter integration, enabling comprehensive control over image generation through various guidance methods.
+
+loras
+stylized
+background texture
+fal-ai/flux-general/inpainting
+image-to-image
+FLUX General Inpainting is a versatile endpoint that enables precise image editing and completion, supporting multiple AI extensions including LoRA, ControlNet, and IP-Adapter for enhanced control over inpainting results and sophisticated image modifications.
+
+loras
+stylized
+background texture
+fal-ai/flux-general/image-to-image
+image-to-image
+FLUX General Image-to-Image is a versatile endpoint that transforms existing images with support for LoRA, ControlNet, and IP-Adapter extensions, enabling precise control over style transfer, modifications, and artistic variations through multiple guidance methods.
+
+loras
+stylized
+background texture
+fal-ai/flux-general/differential-diffusion
+image-to-image
+A specialized FLUX endpoint combining differential diffusion control with LoRA, ControlNet, and IP-Adapter support, enabling precise, region-specific image transformations through customizable change maps.
+
+loras
+stylized
+background texture
+fal-ai/flux-general/rf-inversion
+image-to-image
+A general purpose endpoint for the FLUX.1 [dev] model, implementing the RF-Inversion pipeline. This can be used to edit a reference image based on a prompt.
+
+loras
+stylized
+background texture
+fal-ai/flux-pulid
+image-to-image
+An endpoint for personalized image generation using Flux as per given description.
+
+personalization
+background texture
+fal-ai/iclight-v2
+image-to-image
+An endpoint for re-lighting photos and changing their backgrounds per a given description
+
+stylized
+background texture
+fal-ai/flux-differential-diffusion
+image-to-image
+FLUX.1 Differential Diffusion is a rapid endpoint that enables swift, granular control over image transformations through change maps, delivering fast and precise region-specific modifications while maintaining FLUX.1 [dev]'s high-quality output.
+
+background texture
+fal-ai/stable-diffusion-v3-medium
+text-to-image
+Stable Diffusion 3 Medium (Text to Image) is a Multimodal Diffusion Transformer (MMDiT) model that improves image quality, typography, prompt understanding, and efficiency.
+
+optimized
+background texture
+fal-ai/stable-diffusion-v3-medium/image-to-image
+image-to-image
+Stable Diffusion 3 Medium (Image to Image) is a Multimodal Diffusion Transformer (MMDiT) model that improves image quality, typography, prompt understanding, and efficiency.
+
+optimized
+background texture
+fal-ai/fast-sdxl
+text-to-image
+Run SDXL at the speed of light
+
+loras
+embeddings
+background texture
+fal-ai/lora
+text-to-image
+Run Any Stable Diffusion model with customizable LoRA weights.
+
+loras
+stylized
+background texture
+fal-ai/aura-sr
+image-to-image
+Upscale your images with AuraSR.
+
+upscaler
+utility
+background texture
+fal-ai/stable-cascade
+text-to-image
+Stable Cascade: Image generation on a smaller & cheaper latent space.
+
+lcm
+stylized
+background texture
+fal-ai/minimax-video
+text-to-video
+Generate video clips from your prompts using MiniMax model
+
+video
+background texture
+fal-ai/haiper-video-v2
+text-to-video
+Transform text into hyper-realistic videos with Haiper 2.0. Experience industry-leading resolution, fluid motion, and rapid generation for stunning AI videos.
+
+video
+background texture
+fal-ai/haiper-video-v2/image-to-video
+image-to-video
+Transform text into hyper-realistic videos with Haiper 2.0. Experience industry-leading resolution, fluid motion, and rapid generation for stunning AI videos.
+
+video
+background texture
+fal-ai/mochi-v1
+text-to-video
+Mochi 1 preview is an open state-of-the-art video generation model with high-fidelity motion and strong prompt adherence in preliminary evaluation.
+
+video
+background texture
+fal-ai/luma-dream-machine
+text-to-video
+Generate video clips from your prompts using Luma Dream Machine v1.5
+
+video
+background texture
+fal-ai/luma-dream-machine/image-to-video
+image-to-video
+Generate video clips from your images using Luma Dream Machine v1.5
+
+video
+background texture
+fal-ai/kling-video/v1/standard/text-to-video
+text-to-video
+Generate video clips from your prompts using Kling 1.0
+
+video
+background texture
+fal-ai/kling-video/v1/standard/image-to-video
+image-to-video
+Generate video clips from your images using Kling 1.0
+
+video
+background texture
+fal-ai/kling-video/v1/pro/text-to-video
+text-to-video
+Generate video clips from your prompts using Kling 1.0 (pro)
+
+video
+background texture
+fal-ai/kling-video/v1/pro/image-to-video
+image-to-video
+Generate video clips from your images using Kling 1.0 (pro)
+
+video
+background texture
+fal-ai/cogvideox-5b
+text-to-video
+Generate videos from prompts using CogVideoX-5B
+
+optimized
+video
+background texture
+fal-ai/cogvideox-5b/video-to-video
+video-to-video
+Generate videos from videos and prompts using CogVideoX-5B
+
+optimized
+video
+background texture
+fal-ai/cogvideox-5b/image-to-video
+image-to-video
+Generate videos from images and prompts using CogVideoX-5B
+
+optimized
+video
+background texture
+fal-ai/stable-video
+image-to-video
+Generate short video clips from your images using SVD v1.1
+
+video
+background texture
+fal-ai/fast-svd/text-to-video
+text-to-video
+Generate short video clips from your prompts using SVD v1.1
+
+optimized
+background texture
+fal-ai/fast-svd-lcm
+image-to-video
+Generate short video clips from your images using SVD v1.1 at Lightning Speed
+
+video
+background texture
+fal-ai/birefnet/v2
+image-to-image
+bilateral reference framework (BiRefNet) for high-resolution dichotomous image segmentation (DIS)
+
+background
+utility
+inference
+background texture
+fal-ai/fast-svd-lcm/text-to-video
+text-to-video
+Generate short video clips from your images using SVD v1.1 at Lightning Speed
+
+lcm
+background texture
+fal-ai/creative-upscaler
+image-to-image
+Create creative upscaled images.
+
+upscaler
+utility
+background texture
+fal-ai/clarity-upscaler
+image-to-image
+Clarity upscaler for images with high fidelity.
+
+upscaler
+utility
+background texture
+fal-ai/ccsr
+image-to-image
+SOTA Image Upscaler
+
+upscaler
+utility
+background texture
+fal-ai/fast-turbo-diffusion
+text-to-image
+Run SDXL at the speed of light
+
+real-time
+optimized
+background texture
+fal-ai/fast-turbo-diffusion/image-to-image
+image-to-image
+Run SDXL at the speed of light
+
+real-time
+optimized
+background texture
+fal-ai/fast-turbo-diffusion/inpainting
+image-to-image
+Run SDXL at the speed of light
+
+real-time
+inpainting
+background texture
+fal-ai/fast-lcm-diffusion
+text-to-image
+Run SDXL at the speed of light
+
+real-time
+lcm
+background texture
+fal-ai/fast-lcm-diffusion/image-to-image
+image-to-image
+Run SDXL at the speed of light
+
+real-time
+lcm
+background texture
+fal-ai/fast-lcm-diffusion/inpainting
+image-to-image
+Run SDXL at the speed of light
+
+real-time
+lcm
+background texture
+fal-ai/whisper
+speech-to-text
+Whisper is a model for speech transcription and translation.
+
+speech
+background texture
+fal-ai/wizper
+speech-to-text
+[Experimental] Whisper v3 Large -- but optimized by our inference wizards. Same WER, double the performance!
+
+speech
+background texture
+fal-ai/fast-lightning-sdxl
+text-to-image
+Run SDXL at the speed of light
+
+real-time
+optimized
+background texture
+fal-ai/fast-lightning-sdxl/image-to-image
+image-to-image
+Run SDXL at the speed of light
+
+optimized
+background texture
+fal-ai/fast-lightning-sdxl/inpainting
+image-to-image
+Run SDXL at the speed of light
+
+inpainting
+optimized
+background texture
+fal-ai/hyper-sdxl
+text-to-image
+Hyper-charge SDXL's performance and creativity.
+
+real-time
+optimized
+background texture
+fal-ai/hyper-sdxl/image-to-image
+image-to-image
+Hyper-charge SDXL's performance and creativity.
+
+optimized
+background texture
+fal-ai/hyper-sdxl/inpainting
+image-to-image
+Hyper-charge SDXL's performance and creativity.
+
+inpainting
+optimized
+background texture
+fal-ai/playground-v25
+text-to-image
+State-of-the-art open-source model in aesthetic quality
+
+artistic
+background texture
+fal-ai/playground-v25/image-to-image
+image-to-image
+State-of-the-art open-source model in aesthetic quality
+
+artistic
+background texture
+fal-ai/playground-v25/inpainting
+image-to-image
+State-of-the-art open-source model in aesthetic quality
+
+artistic
+inpainting
+background texture
+fal-ai/amt-interpolation
+video-to-video
+Interpolate between video frames
+
+video
+background texture
+fal-ai/amt-interpolation/frame-interpolation
+image-to-video
+Interpolate between image frames
+
+video
+background texture
+fal-ai/t2v-turbo
+text-to-video
+Generate short video clips from your prompts
+
+video
+background texture
+fal-ai/sd15-depth-controlnet
+image-to-image
+SD 1.5 ControlNet
+
+depth
+controlnet
+background texture
+fal-ai/photomaker
+image-to-image
+Customizing Realistic Human Photos via Stacked ID Embedding
+
+realistic
+background texture
+fal-ai/lcm
+text-to-image
+Produce high-quality images with minimal inference steps.
+
+real-time
+lcm
+background texture
+fal-ai/lcm-sd15-i2i
+image-to-image
+Produce high-quality images with minimal inference steps. Optimized for 512x512 input image size.
+
+real-time
+lcm
+background texture
+fal-ai/fooocus
+text-to-image
+Default parameters with automated optimizations and quality improvements.
+
+stylized
+background texture
+fal-ai/animatediff-v2v
+video-to-video
+Re-animate your videos with evolved consistency!
+
+video
+stylized
+background texture
+fal-ai/animatediff-v2v/turbo
+video-to-video
+Re-animate your videos with evolved consistency!
+
+video
+stylized
+background texture
+fal-ai/fast-animatediff/text-to-video
+text-to-video
+Animate your ideas!
+
+video
+stylized
+background texture
+fal-ai/fast-animatediff/video-to-video
+video-to-video
+Re-animate your videos!
+
+video
+stylized
+background texture
+fal-ai/fast-animatediff/turbo/text-to-video
+text-to-video
+Animate your ideas in lightning speed!
+
+video
+stylized
+background texture
+fal-ai/fast-animatediff/turbo/video-to-video
+video-to-video
+Re-animate your videos in lightning speed!
+
+video
+stylized
+background texture
+fal-ai/illusion-diffusion
+text-to-image
+Create illusions conditioned on image.
+
+stylized
+background texture
+fal-ai/imageutils/depth
+image-to-image
+Create depth maps using Midas depth estimation.
+
+utility
+depth
+background texture
+fal-ai/imageutils/rembg
+image-to-image
+Remove the background from an image.
+
+background
+utility
+inference
+background texture
+fal-ai/esrgan
+image-to-image
+Upscale images by a given factor.
+
+upscaler
+utility
+background texture
+fal-ai/fast-sdxl-controlnet-canny
+text-to-image
+Generate Images with ControlNet.
+
+controlnet
+background texture
+fal-ai/fast-sdxl-controlnet-canny/image-to-image
+image-to-image
+Generate Images with ControlNet.
+
+background texture
+fal-ai/fast-sdxl-controlnet-canny/inpainting
+image-to-image
+Generate Images with ControlNet.
+
+background texture
+fal-ai/inpaint
+image-to-image
+Inpaint images with SD and SDXL
+
+inpainting
+background texture
+fal-ai/animatediff-sparsectrl-lcm
+text-to-video
+Animate Your Drawings with Latent Consistency Models!
+
+lcm
+stylized
+background texture
+fal-ai/pulid
+image-to-image
+Tuning-free ID customization.
+
+utility
+background texture
+fal-ai/ip-adapter-face-id
+image-to-image
+High quality zero-shot personalization
+
+personalization
+background texture
+fal-ai/imageutils/marigold-depth
+image-to-image
+Create depth maps using Marigold depth estimation.
+
+depth
+utility
+background texture
+fal-ai/stable-audio
+text-to-audio
+Open source text-to-audio model.
+
+audio
+background texture
+fal-ai/diffusion-edge
+text-to-image
+Diffusion based high quality edge detection
+
+background texture
+fal-ai/triposr
+image-to-3d
+State of the art Image to 3D Object generation
+
+stylized
+background texture
+fal-ai/fooocus/upscale-or-vary
+text-to-image
+Default parameters with automated optimizations and quality improvements.
+
+stylized
+background texture
+fal-ai/fooocus/image-prompt
+text-to-image
+Default parameters with automated optimizations and quality improvements.
+
+stylized
+background texture
+fal-ai/fooocus/inpaint
+text-to-image
+Default parameters with automated optimizations and quality improvements.
+
+stylized
+background texture
+fal-ai/retoucher
+image-to-image
+Automatically retouches faces to smooth skin and remove blemishes.
+
+utility
+background texture
+fal-ai/any-llm
+llm
+Use any large language model from our selected catalogue (powered by OpenRouter)
+
+streaming
+background texture
+fal-ai/any-llm/vision
+vision
+Use any vision language model from our selected catalogue (powered by OpenRouter)
+
+streaming
+background texture
+fal-ai/llavav15-13b
+vision
+Vision
+
+streaming
+background texture
+fal-ai/llava-next
+vision
+Vision
+
+background texture
+fal-ai/imageutils/nsfw
+vision
+Predict the probability of an image being NSFW.
+
+utility
+background texture
+fal-ai/fast-fooocus-sdxl
+text-to-image
+Fooocus extreme speed mode as a standalone app.
+
+stylized
+background texture
+fal-ai/fast-fooocus-sdxl/image-to-image
+text-to-image
+Fooocus extreme speed mode as a standalone app.
+
+stylized
+background texture
+fal-ai/face-to-sticker
+image-to-image
+Create stickers from faces.
+
+utility
+background texture
+fal-ai/moondream/batched
+vision
+Answer questions from the images.
+
+utility
+background texture
+fal-ai/sadtalker
+image-to-video
+Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
+
+background texture
+fal-ai/musetalk
+image-to-video
+MuseTalk is a real-time high quality audio-driven lip-syncing model. Use MuseTalk to animate a face with your own audio.
+
+background texture
+fal-ai/sadtalker/reference
+image-to-video
+Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
+
+background texture
+fal-ai/layer-diffusion
+text-to-image
+SDXL with an alpha channel.
+
+background texture
+fal-ai/stable-diffusion-v15
+text-to-image
+Stable Diffusion v1.5
+
+background texture
+fal-ai/lora/image-to-image
+image-to-image
+Run Any Stable Diffusion model with customizable LoRA weights.
+
+loras
+stylized
+background texture
+fal-ai/fast-sdxl/image-to-image
+image-to-image
+Run SDXL at the speed of light
+
+loras
+embeddings
+background texture
+fal-ai/fast-sdxl/inpainting
+image-to-image
+Run SDXL at the speed of light
+
+inpainting
+loras
+embeddings
+background texture
+fal-ai/lora/inpaint
+image-to-image
+Run Any Stable Diffusion model with customizable LoRA weights.
+
+loras
+stylized
+inpainting
+background texture
+fal-ai/pixart-sigma
+text-to-image
+Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
+
+realistic
+background texture
+fal-ai/dreamshaper
+text-to-image
+Dreamshaper model.
+
+stylized
+background texture
+fal-ai/realistic-vision
+text-to-image
+Generate realistic images.
+
+stylized
+background texture
+fal-ai/lightning-models
+text-to-image
+Collection of SDXL Lightning models.
+
+stylized
+background texture
+fal-ai/omni-zero
+image-to-image
+Any pose, any style, any identity
+
+stylized
+background texture
+fal-ai/cat-vton
+image-to-image
+Image based Virtual Try-On
+
+stylized
+background texture
+fal-ai/dwpose
+image-to-image
+Predict poses.
+
+utility
+background texture
+fal-ai/stable-cascade/sote-diffusion
+text-to-image
+Anime finetune of Würstchen V3.
+
+lcm
+stylized
+background texture
+fal-ai/florence-2-large/caption
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/detailed-caption
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/more-detailed-caption
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/object-detection
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/dense-region-caption
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/region-proposal
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/caption-to-phrase-grounding
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/referring-expression-segmentation
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/region-to-segmentation
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/open-vocabulary-detection
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/region-to-category
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/region-to-description
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/ocr
+vision
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/florence-2-large/ocr-with-region
+image-to-image
+Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks
+
+optimized
+utility
+background texture
+fal-ai/era-3d
+image-to-image
+A powerful image to novel multiview model with normals.
+
+background texture
+fal-ai/live-portrait
+image-to-video
+Transfer expression from a video to a portrait.
+
+background texture
+fal-ai/live-portrait/image
+image-to-image
+Transfer expression from a video to a portrait.
+
+background texture
+fal-ai/kolors
+text-to-image
+Photorealistic Text-to-Image
+
+background texture
+fal-ai/kolors/image-to-image
+image-to-image
+Photorealistic Image-to-Image
+
+background texture
+fal-ai/sdxl-controlnet-union
+text-to-image
+An efficent SDXL multi-controlnet text-to-image model.
+
+background texture
+fal-ai/sdxl-controlnet-union/image-to-image
+image-to-image
+An efficent SDXL multi-controlnet image-to-image model.
+
+background texture
+fal-ai/sdxl-controlnet-union/inpainting
+image-to-image
+An efficent SDXL multi-controlnet inpainting model.
+
+inpainting
+background texture
+fal-ai/sam2/image
+image-to-image
+SAM 2 is a model for segmenting images and videos in real-time.
+
+mask
+background texture
+fal-ai/sam2/video
+video-to-video
+SAM 2 is a model for segmenting images and videos in real-time.
+
+mask
+background texture
+fal-ai/mini-cpm
+vision
+Multimodal vision-language model for single/multi image understanding
+
+multimodal
+vision
+vllm
+background texture
+fal-ai/mini-cpm/video
+vision
+Multimodal vision-language model for video understanding
+
+multimodal
+vision
+vllm
+video
+background texture
+fal-ai/controlnext
+video-to-video
+Animate a reference image with a driving video using ControlNeXt.
+
+background texture
+fal-ai/workflowutils/canny
+image-to-image
+Various image preprocessing tools for ControlNet and other applications.
+
+utility
+background texture
+fal-ai/workflowutils/canny
+image-to-image
+Canny edge detection preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/depth-anything/v2
+image-to-image
+Depth Anything v2 preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/hed
+image-to-image
+Holistically-Nested Edge Detection (HED) preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/lineart
+image-to-image
+Line art preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/midas
+image-to-image
+MiDaS depth estimation preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/mlsd
+image-to-image
+M-LSD line segment detection preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/pidi
+image-to-image
+PIDI (Pidinet) preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/sam
+image-to-image
+Segment Anything Model (SAM) preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/scribble
+image-to-image
+Scribble preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/teed
+image-to-image
+TEED (Temporal Edge Enhancement Detection) preprocessor.
+
+utility
+background texture
+fal-ai/image-preprocessors/zoe
+image-to-image
+ZoeDepth preprocessor.
+
+utility
+background texture
+fal-ai/f5-tts
+text-to-audio
+F5 TTS
+
+utility
